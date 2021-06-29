@@ -15,6 +15,7 @@ Python provides some of the advantages of using python packages:
 - Improves the Modularity of the application.
 - The readability of the application will be improved.
 - Maintainability of the application will be improved.
+
 ###Structure
 - **Step 1**: Create an app folder
 - **Step 2**: Inside `app`, create `__init__.py` empty file - to initialise our package
